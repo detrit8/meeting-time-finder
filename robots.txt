@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://meeting-time-finder.pages.dev/sitemap.xml
