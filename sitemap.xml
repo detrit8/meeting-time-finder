@@ -8,11 +8,4 @@
     <priority>1.0</priority>
   </url>
 
-  <!-- будущие страницы -->
-  <url>
-    <loc>https://meeting-time-finder.pages.dev/?from=berlin&amp;to=tokyo</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
 </urlset>
